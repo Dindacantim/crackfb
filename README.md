@@ -1,12 +1,6 @@
-$ cd free
+git clone https://github.com/Dindacantim/crackfb
 
-
-
-
-$ ls
-
-
-
+$ cd crackfb
 
 
 $ python free.py
