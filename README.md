@@ -4,4 +4,4 @@ $ cd crackfb
 
 $ git pull
 
-python free.py
+$ python free.py
